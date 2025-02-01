@@ -1,0 +1,16 @@
+cvxpy[gurobi,xpress]
+ipykernel
+matplotlib
+missingno
+nbformat
+numpy
+pandas
+plotly
+scikit-learn
+seaborn
+statsmodels
+tqdm
+yfinance==0.2.40
+quandl
+mplfinance
+openpyxl
