@@ -4,17 +4,15 @@ Material preparado para la primera edición de la microcredencial UAM de Python 
 
 Profesores:
 
-- [Christian Oliva](https://www.linkedin.com/in/christian-oliva-moya-ingeniero/).
+- [Pedro Ventura](https://www.linkedin.com/in/pedro-ramon-ventura-gomez/).
 
-    - Doctorando en Ingeniería Informática y Telecomunicaciones. Universidad Autónoma de Madrid
-    
-    - Master en Investigación e Innovación en Inteligencia Computacional y Sistemas Interactivos - UAM
-    
-    - Grado en Ingeniería Informática - UAM
-    
-    - Profesor Ayudante Dpto. Ingeniería Informática. Escuela Politécnica Superior - UAM
-    
-    - Profesor en el Master en IA y Computación Cuántica aplicada a los mercados financieros (MIAX) - BME
+  - Director de Desarrollo de Software en March Asset Management (March AM - Banca March).
+
+  - Quant AI Developer - Máster en Inteligencia Artificial aplicada a los Mercados Financieros (MIAX - BME).
+
+  - Profesor Máster en Inteligencia Artificial y Computación Cuántica aplicada a los Mercados Financieros (MIAX - BME).
+
+  - Ingeniero Técnico de Telecomunicaciones en la especialidad de Telemática por la Universidad Politécnica de Madrid.
 
 - [Alfonso Santos](https://www.uam.es/Economicas/santos-ramon-alfonso/1242667903456.htm?language=es&pid=1242653687745&title=Santos%20Ram?n%20Alfonso). 
 
