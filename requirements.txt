@@ -10,7 +10,7 @@ scikit-learn
 seaborn
 statsmodels
 tqdm
-yfinance==0.2.40
+yfinance
 quandl
 mplfinance
 openpyxl
