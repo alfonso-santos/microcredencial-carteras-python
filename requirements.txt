@@ -1,4 +1,4 @@
-cvxpy[gurobi,xpress]
+cvxpy[gurobi,xpress,ecos]
 ipykernel
 matplotlib
 missingno
