@@ -14,3 +14,4 @@ yfinance
 quandl
 mplfinance
 openpyxl
+lxml
