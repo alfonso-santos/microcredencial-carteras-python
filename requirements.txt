@@ -15,3 +15,5 @@ quandl
 mplfinance
 openpyxl
 lxml
+pandas_datareader
+yfinance
