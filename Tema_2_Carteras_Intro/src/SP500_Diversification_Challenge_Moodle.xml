@@ -1,0 +1,285 @@
+<?xml version='1.0' encoding='utf-8'?>
+<quiz>
+  <question type="shortanswer">
+    <name>
+      <text>S&amp;P 500 Diversification Challenge - Part A - Selected pair</text>
+    </name>
+    <questiontext format="html">
+      <text>&lt;p&gt;&lt;strong&gt;Part A:&lt;/strong&gt; Enter your selected pair of stocks without any return requirement.&lt;/p&gt;&lt;p&gt;Enter the two tickers &lt;strong&gt;in alphabetical order, separated by a comma and without spaces&lt;/strong&gt; (e.g., &lt;code&gt;AAPL,MSFT&lt;/code&gt;).&lt;/p&gt;&lt;p&gt;The 20 highest-ranked eligible pairs receive partial or full credit according to their ranking.&lt;/p&gt;</text>
+    </questiontext>
+    <defaultgrade>5.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <usecase>0</usecase>
+    <generalfeedback format="html">
+      <text>&lt;p&gt;Pairs are scored according to the ranking in the instructor reference results. Rank 1: 100%; ranks 2–5: 90%; 6–10: 80%; 11–15: 70%; 16–20: 60%; otherwise: 0%.&lt;/p&gt;</text>
+    </generalfeedback>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>AMZN,CBOE</text>
+      <feedback format="html">
+        <text>&lt;p&gt;Rank 1 of the accepted Top 20 pairs for Part A. Credit: 100% of this question.&lt;/p&gt;</text>
+      </feedback>
+    </answer>
+    <answer fraction="90" format="moodle_auto_format">
+      <text>CBOE,GOOG</text>
+      <feedback format="html">
+        <text>&lt;p&gt;Rank 2 of the accepted Top 20 pairs for Part A. Credit: 90% of this question.&lt;/p&gt;</text>
+      </feedback>
+    </answer>
+    <answer fraction="90" format="moodle_auto_format">
+      <text>CBOE,HUBB</text>
+      <feedback format="html">
+        <text>&lt;p&gt;Rank 3 of the accepted Top 20 pairs for Part A. Credit: 90% of this question.&lt;/p&gt;</text>
+      </feedback>
+    </answer>
+    <answer fraction="90" format="moodle_auto_format">
+      <text>CBOE,MSFT</text>
+      <feedback format="html">
+        <text>&lt;p&gt;Rank 4 of the accepted Top 20 pairs for Part A. Credit: 90% of this question.&lt;/p&gt;</text>
+      </feedback>
+    </answer>
+    <answer fraction="90" format="moodle_auto_format">
+      <text>CBOE,GOOGL</text>
+      <feedback format="html">
+        <text>&lt;p&gt;Rank 5 of the accepted Top 20 pairs for Part A. Credit: 90% of this question.&lt;/p&gt;</text>
+      </feedback>
+    </answer>
+    <answer fraction="80" format="moodle_auto_format">
+      <text>AMZN,ED</text>
+      <feedback format="html">
+        <text>&lt;p&gt;Rank 6 of the accepted Top 20 pairs for Part A. Credit: 80% of this question.&lt;/p&gt;</text>
+      </feedback>
+    </answer>
+    <answer fraction="80" format="moodle_auto_format">
+      <text>CBOE,ETN</text>
+      <feedback format="html">
+        <text>&lt;p&gt;Rank 7 of the accepted Top 20 pairs for Part A. Credit: 80% of this question.&lt;/p&gt;</text>
+      </feedback>
+    </answer>
+    <answer fraction="80" format="moodle_auto_format">
+      <text>CBOE,NTAP</text>
+      <feedback format="html">
+        <text>&lt;p&gt;Rank 8 of the accepted Top 20 pairs for Part A. Credit: 80% of this question.&lt;/p&gt;</text>
+      </feedback>
+    </answer>
+    <answer fraction="80" format="moodle_auto_format">
+      <text>CAT,CBOE</text>
+      <feedback format="html">
+        <text>&lt;p&gt;Rank 9 of the accepted Top 20 pairs for Part A. Credit: 80% of this question.&lt;/p&gt;</text>
+      </feedback>
+    </answer>
+    <answer fraction="80" format="moodle_auto_format">
+      <text>CBOE,FTV</text>
+      <feedback format="html">
+        <text>&lt;p&gt;Rank 10 of the accepted Top 20 pairs for Part A. Credit: 80% of this question.&lt;/p&gt;</text>
+      </feedback>
+    </answer>
+    <answer fraction="70" format="moodle_auto_format">
+      <text>CBOE,TRMB</text>
+      <feedback format="html">
+        <text>&lt;p&gt;Rank 11 of the accepted Top 20 pairs for Part A. Credit: 70% of this question.&lt;/p&gt;</text>
+      </feedback>
+    </answer>
+    <answer fraction="70" format="moodle_auto_format">
+      <text>CBOE,META</text>
+      <feedback format="html">
+        <text>&lt;p&gt;Rank 12 of the accepted Top 20 pairs for Part A. Credit: 70% of this question.&lt;/p&gt;</text>
+      </feedback>
+    </answer>
+    <answer fraction="70" format="moodle_auto_format">
+      <text>CBOE,WAB</text>
+      <feedback format="html">
+        <text>&lt;p&gt;Rank 13 of the accepted Top 20 pairs for Part A. Credit: 70% of this question.&lt;/p&gt;</text>
+      </feedback>
+    </answer>
+    <answer fraction="70" format="moodle_auto_format">
+      <text>CBOE,TEL</text>
+      <feedback format="html">
+        <text>&lt;p&gt;Rank 14 of the accepted Top 20 pairs for Part A. Credit: 70% of this question.&lt;/p&gt;</text>
+      </feedback>
+    </answer>
+    <answer fraction="70" format="moodle_auto_format">
+      <text>CBOE,PH</text>
+      <feedback format="html">
+        <text>&lt;p&gt;Rank 15 of the accepted Top 20 pairs for Part A. Credit: 70% of this question.&lt;/p&gt;</text>
+      </feedback>
+    </answer>
+    <answer fraction="60" format="moodle_auto_format">
+      <text>AMT,GOOGL</text>
+      <feedback format="html">
+        <text>&lt;p&gt;Rank 16 of the accepted Top 20 pairs for Part A. Credit: 60% of this question.&lt;/p&gt;</text>
+      </feedback>
+    </answer>
+    <answer fraction="60" format="moodle_auto_format">
+      <text>CBOE,EMR</text>
+      <feedback format="html">
+        <text>&lt;p&gt;Rank 17 of the accepted Top 20 pairs for Part A. Credit: 60% of this question.&lt;/p&gt;</text>
+      </feedback>
+    </answer>
+    <answer fraction="60" format="moodle_auto_format">
+      <text>CBOE,DOV</text>
+      <feedback format="html">
+        <text>&lt;p&gt;Rank 18 of the accepted Top 20 pairs for Part A. Credit: 60% of this question.&lt;/p&gt;</text>
+      </feedback>
+    </answer>
+    <answer fraction="60" format="moodle_auto_format">
+      <text>CBOE,QCOM</text>
+      <feedback format="html">
+        <text>&lt;p&gt;Rank 19 of the accepted Top 20 pairs for Part A. Credit: 60% of this question.&lt;/p&gt;</text>
+      </feedback>
+    </answer>
+    <answer fraction="60" format="moodle_auto_format">
+      <text>ED,MSFT</text>
+      <feedback format="html">
+        <text>&lt;p&gt;Rank 20 of the accepted Top 20 pairs for Part A. Credit: 60% of this question.&lt;/p&gt;</text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>*</text>
+      <feedback format="html">
+        <text>&lt;p&gt;This entry is not among the 20 accepted pairs for this part, or the format is incorrect.&lt;/p&gt;</text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="shortanswer">
+    <name>
+      <text>S&amp;P 500 Diversification Challenge - Part B - Selected pair</text>
+    </name>
+    <questiontext format="html">
+      <text>&lt;p&gt;&lt;strong&gt;Part B:&lt;/strong&gt; Enter your selected pair of stocks with the S&amp;P 500 return requirement.&lt;/p&gt;&lt;p&gt;Enter the two tickers &lt;strong&gt;in alphabetical order, separated by a comma and without spaces&lt;/strong&gt; (e.g., &lt;code&gt;AAPL,MSFT&lt;/code&gt;).&lt;/p&gt;&lt;p&gt;The 20 highest-ranked eligible pairs receive partial or full credit according to their ranking.&lt;/p&gt;</text>
+    </questiontext>
+    <defaultgrade>5.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <usecase>0</usecase>
+    <generalfeedback format="html">
+      <text>&lt;p&gt;Pairs are scored according to the ranking in the instructor reference results. Rank 1: 100%; ranks 2–5: 90%; 6–10: 80%; 11–15: 70%; 16–20: 60%; otherwise: 0%.&lt;/p&gt;</text>
+    </generalfeedback>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>AMZN,CBOE</text>
+      <feedback format="html">
+        <text>&lt;p&gt;Rank 1 of the accepted Top 20 pairs for Part B. Credit: 100% of this question.&lt;/p&gt;</text>
+      </feedback>
+    </answer>
+    <answer fraction="90" format="moodle_auto_format">
+      <text>CBOE,GOOG</text>
+      <feedback format="html">
+        <text>&lt;p&gt;Rank 2 of the accepted Top 20 pairs for Part B. Credit: 90% of this question.&lt;/p&gt;</text>
+      </feedback>
+    </answer>
+    <answer fraction="90" format="moodle_auto_format">
+      <text>CBOE,GOOGL</text>
+      <feedback format="html">
+        <text>&lt;p&gt;Rank 3 of the accepted Top 20 pairs for Part B. Credit: 90% of this question.&lt;/p&gt;</text>
+      </feedback>
+    </answer>
+    <answer fraction="90" format="moodle_auto_format">
+      <text>CAT,CBOE</text>
+      <feedback format="html">
+        <text>&lt;p&gt;Rank 4 of the accepted Top 20 pairs for Part B. Credit: 90% of this question.&lt;/p&gt;</text>
+      </feedback>
+    </answer>
+    <answer fraction="90" format="moodle_auto_format">
+      <text>CBOE,TRMB</text>
+      <feedback format="html">
+        <text>&lt;p&gt;Rank 5 of the accepted Top 20 pairs for Part B. Credit: 90% of this question.&lt;/p&gt;</text>
+      </feedback>
+    </answer>
+    <answer fraction="80" format="moodle_auto_format">
+      <text>CBOE,META</text>
+      <feedback format="html">
+        <text>&lt;p&gt;Rank 6 of the accepted Top 20 pairs for Part B. Credit: 80% of this question.&lt;/p&gt;</text>
+      </feedback>
+    </answer>
+    <answer fraction="80" format="moodle_auto_format">
+      <text>CBOE,WAB</text>
+      <feedback format="html">
+        <text>&lt;p&gt;Rank 7 of the accepted Top 20 pairs for Part B. Credit: 80% of this question.&lt;/p&gt;</text>
+      </feedback>
+    </answer>
+    <answer fraction="80" format="moodle_auto_format">
+      <text>CBOE,TEL</text>
+      <feedback format="html">
+        <text>&lt;p&gt;Rank 8 of the accepted Top 20 pairs for Part B. Credit: 80% of this question.&lt;/p&gt;</text>
+      </feedback>
+    </answer>
+    <answer fraction="80" format="moodle_auto_format">
+      <text>CBOE,PH</text>
+      <feedback format="html">
+        <text>&lt;p&gt;Rank 9 of the accepted Top 20 pairs for Part B. Credit: 80% of this question.&lt;/p&gt;</text>
+      </feedback>
+    </answer>
+    <answer fraction="80" format="moodle_auto_format">
+      <text>CBOE,KLAC</text>
+      <feedback format="html">
+        <text>&lt;p&gt;Rank 10 of the accepted Top 20 pairs for Part B. Credit: 80% of this question.&lt;/p&gt;</text>
+      </feedback>
+    </answer>
+    <answer fraction="70" format="moodle_auto_format">
+      <text>CBOE,FLEX</text>
+      <feedback format="html">
+        <text>&lt;p&gt;Rank 11 of the accepted Top 20 pairs for Part B. Credit: 70% of this question.&lt;/p&gt;</text>
+      </feedback>
+    </answer>
+    <answer fraction="70" format="moodle_auto_format">
+      <text>CBOE,RL</text>
+      <feedback format="html">
+        <text>&lt;p&gt;Rank 12 of the accepted Top 20 pairs for Part B. Credit: 70% of this question.&lt;/p&gt;</text>
+      </feedback>
+    </answer>
+    <answer fraction="70" format="moodle_auto_format">
+      <text>CBOE,CMI</text>
+      <feedback format="html">
+        <text>&lt;p&gt;Rank 13 of the accepted Top 20 pairs for Part B. Credit: 70% of this question.&lt;/p&gt;</text>
+      </feedback>
+    </answer>
+    <answer fraction="70" format="moodle_auto_format">
+      <text>ED,GOOGL</text>
+      <feedback format="html">
+        <text>&lt;p&gt;Rank 14 of the accepted Top 20 pairs for Part B. Credit: 70% of this question.&lt;/p&gt;</text>
+      </feedback>
+    </answer>
+    <answer fraction="70" format="moodle_auto_format">
+      <text>ED,GOOG</text>
+      <feedback format="html">
+        <text>&lt;p&gt;Rank 15 of the accepted Top 20 pairs for Part B. Credit: 70% of this question.&lt;/p&gt;</text>
+      </feedback>
+    </answer>
+    <answer fraction="60" format="moodle_auto_format">
+      <text>APH,CBOE</text>
+      <feedback format="html">
+        <text>&lt;p&gt;Rank 16 of the accepted Top 20 pairs for Part B. Credit: 60% of this question.&lt;/p&gt;</text>
+      </feedback>
+    </answer>
+    <answer fraction="60" format="moodle_auto_format">
+      <text>APH,GIS</text>
+      <feedback format="html">
+        <text>&lt;p&gt;Rank 17 of the accepted Top 20 pairs for Part B. Credit: 60% of this question.&lt;/p&gt;</text>
+      </feedback>
+    </answer>
+    <answer fraction="60" format="moodle_auto_format">
+      <text>CBOE,CRH</text>
+      <feedback format="html">
+        <text>&lt;p&gt;Rank 18 of the accepted Top 20 pairs for Part B. Credit: 60% of this question.&lt;/p&gt;</text>
+      </feedback>
+    </answer>
+    <answer fraction="60" format="moodle_auto_format">
+      <text>AWK,IBKR</text>
+      <feedback format="html">
+        <text>&lt;p&gt;Rank 19 of the accepted Top 20 pairs for Part B. Credit: 60% of this question.&lt;/p&gt;</text>
+      </feedback>
+    </answer>
+    <answer fraction="60" format="moodle_auto_format">
+      <text>AWK,NVDA</text>
+      <feedback format="html">
+        <text>&lt;p&gt;Rank 20 of the accepted Top 20 pairs for Part B. Credit: 60% of this question.&lt;/p&gt;</text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>*</text>
+      <feedback format="html">
+        <text>&lt;p&gt;This entry is not among the 20 accepted pairs for this part, or the format is incorrect.&lt;/p&gt;</text>
+      </feedback>
+    </answer>
+  </question>
+</quiz>
