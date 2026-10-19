@@ -1,0 +1,10 @@
+Prices: ..\data\SP500_comp_data.xlsx
+Stocks: 325
+Return dates: 6832
+Sample: 1996-07-01 to 2023-08-22
+Portfolio sizes: 5 to 30
+Best found: 13.279581% at K=22
+1% relative threshold: 13.412377%
+Smallest qualifying K: 15
+Qualifying tickers: ACGL,AJG,CAG,CLX,ED,GIS,HRL,JNJ,LMT,MCD,NEM,SJM,SO,WMT,WST
+Heuristic search; global optimality not established.
