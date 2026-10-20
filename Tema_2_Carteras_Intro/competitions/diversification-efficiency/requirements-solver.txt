@@ -1,0 +1,3 @@
+-r requirements.txt
+pyscipopt==6.2.1
+scipy
